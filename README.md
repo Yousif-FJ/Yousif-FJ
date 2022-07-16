@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousif</h1>
 <h3 align="center">C# developer from Iraq</h3>
 
-- 🌱 I’m currently learning **Microservices, Test drive development, Cyber security**
+- 🌱 I’m currently learning **Microservices, OAuth, Cyber security**
 
 - 💬 Ask me about **ASP.NET, C#, Clean Code**
 
