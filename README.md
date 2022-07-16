@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **linkedin.com/in/yousef-fj**
 
-- ⚡ Fun fact **I like games, specially fps games**
+- ⚡ Fun fact **I like video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
