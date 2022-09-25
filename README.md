@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousif</h1>
 <h3 align="center">C# developer from Iraq</h3>
 
-- 🌱 I’m currently learning **Microservices, OAuth, Cyber security**
-
-- 💬 Ask me about **ASP.NET, C#, Clean Code**
-
-- 📫 How to reach me **linkedin.com/in/yousef-fj**
-
-- ⚡ Fun fact **I like games, specially fps games**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yousef-fj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-fj" height="30" width="40" /></a>
